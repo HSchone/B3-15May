@@ -7,6 +7,9 @@ public class DaMain {
 		
 		System.out.println("Good luck! I am trying a totally new GUI");
 		System.out.println("Whew! It works!!!");
+		
+		
+		System.out.println("Does it work? Yes it does");
 
 	}
 
